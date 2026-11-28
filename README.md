@@ -6,7 +6,7 @@ I really want to know more stories, systems, problems, and solutions. These GitH
 
 Most of the code in this GitHub is now written with AI: Instinct, Rapi (biks.ai), trae.ai, Windsurf, Alibaba Qwen, Anthropic Claude, Google Gemini (via AI Studio, Antigravity, etc.), AWS Kiro, Amazon Q Developer, Microsoft VS Code Copilot, and others. I haven't reviewed all of it.
 
-Some of these experiments also ran on Fenrir (AI model credits from IDSW 2026); which tools and Fenrir usage went into each repo is noted in that repo's README.
+Some of these experiments also ran on Fenrir (qwen/qwen3.8-27b, deepseek/deepseek-v4.1-flash, zai/glm-5.3-flash); which tools and Fenrir usage went into each repo is noted in that repo's README.
 
 I think I will put the code I write by hand somewhere else; I heard Codeberg is a nice place to be. I am still finding time for that between managing communities, researching, studying, working, and just staying alive.
 
